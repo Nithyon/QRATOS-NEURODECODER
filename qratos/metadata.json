@@ -1,0 +1,5 @@
+{
+  "name": "Hybrid Q - Quantum BCI Dashboard",
+  "description": "A Brain-Computer Interface dashboard visualizing Quantum Machine Learning decoding of motor imagery from EEG signals. Features a live simulation of the Hybrid Riemannian-Quantum architecture.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+numpy>=1.24.0
+pandas
+pennylane
+pyriemann
+websockets
+scikit-learn
+scipy
+python-multipart
+joblib
