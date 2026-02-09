@@ -37,6 +37,7 @@ Open your browser to the URL shown (typically `http://localhost:5173`)
 
 - **[Quick Start - No Training Required](QUICK_START_NO_TRAINING.md)** ⭐ Start here!
 - **[Kipu Quantum Platform Guide](KIPU_PLATFORM_GUIDE.md)** - What is Kipu? Is it open source? How to access it?
+- **[Quantum Platforms Comparison](QUANTUM_PLATFORMS_COMPARISON.md)** - Compare Kipu, IBM, AWS, Azure, Google & more
 - **[FAQ - Frequently Asked Questions](FAQ.md)** - Common questions about training, Kipu, and usage
 - **[HACKATHON.md](HACKATHON.md)** - Full demo instructions and training pipeline
 
